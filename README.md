@@ -3,7 +3,7 @@
 <!--
 **TomD101/TomD101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-##Here's a little about me:##
+## Here's a little about me:
 - 🔭 I’m currently working on developing my skills towards completing a **University of Nottingham** accredited bootcamp in ***Data Science*** run by **HyperionDev**.
 - 🌱 I’m currently learning how to code in **Python** and the fundamentals in math and linear algebra required for ***Data Science***.
 - 👯 I’m looking to collaborate on projects using my new skills once I've a solid foundation. In particular I will be seeking to participate in ***hackathons*** to gain experience.
