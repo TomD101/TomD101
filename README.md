@@ -11,4 +11,4 @@
 - 💬 Ask me about my career as the first employee at **Sugru**, and how we brought a concept 'wonder material' for modifying and repairing everyday items into being, to be used millions of times worldswide!!
 - ⚡ Fun fact: If you stretch an uninflated baloon, then quickly return it to its original length, then feel the temperature against your face - it will feel cold as energy is absorbed in the process of elastic recovery!!
 
-You can see one of the more challenging tasks I completed during the course here: https://github.com/TomD101/Coursework-projects
+You can see selected tasks I completed during the **HyperionDev** Data Science course the course here: https://github.com/TomD101/Coursework-projects
